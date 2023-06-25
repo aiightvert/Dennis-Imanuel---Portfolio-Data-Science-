@@ -4,7 +4,7 @@
 
 Welcome to my data analysis portfolio! This repository contains a collection of data analysis projects that I have worked on during my journey as a data analyst. Each project explores different aspects of data analysis, ranging from exploratory data analysis to machine learning models.
 
-## Project 1: [Project Name]
+## [Project 1: Text and Sentiment Analysis for Motorcycle Online Marketplace Review](https://github.com/aiightvert/Text-and-Sentiment-Analysis-for-Motorcycle-Review)
 
 - **Description:** Briefly describe the project and its objectives.
 - **Tools and Technologies:** List the tools and technologies used in the project (e.g., Python, R, SQL, Jupyter Notebook).
