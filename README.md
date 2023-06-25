@@ -1,6 +1,6 @@
 # Dennis Imanuel's Data Analysis Portfolio
 
-![](muka.png)
+![]([muka.png](https://github.com/aiightvert/Dennis-Imanuel---Portfolio-Data-Science-/assets/127971950/e3dd267f-df70-4381-834b-439656e8faaa))
 
 Welcome to my data analysis portfolio! This repository contains a collection of data analysis projects that I have worked on during my journey as a data analyst. Each project explores different aspects of data analysis, ranging from exploratory data analysis to machine learning models.
 
